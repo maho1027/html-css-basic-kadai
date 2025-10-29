@@ -1,4 +1,4 @@
-.decoration {
+html {
   font-size: 20px;
 }
 body {
@@ -18,19 +18,14 @@ body {
 }
 
 h1 {
-.josefin-sans-<uniquifier> {
   font-family: "Josefin Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 400; 
   font-style: normal;
-}
-font-size: 2em;
-letter-spacing: 1.2em;
-text-shadow: 1px 1px 2px gray;
-border-bottom: 3px solid rgb(115,115,114)
-
-
-
-}
-
-
+  
+ 
+  font-size: 2em; 
+  letter-spacing: 1.2em;
+  text-shadow: 1px 1px 2px gray;
+  border-bottom: 3px solid rgb(115,115,114);
+} 
